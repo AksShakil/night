@@ -1250,6 +1250,12 @@ nav ul li a:hover:after{
 }
 
 
+#testi-part .te{
+
+    margin-left: 35px !important;
+}
+
+
 #testi-part .line-two{
 
     position: absolute;
