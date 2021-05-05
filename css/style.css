@@ -1244,16 +1244,13 @@ nav ul li a:hover:after{
     border-radius: 12%;
     position: absolute;
     top: 43%;
-    left: 38.5%;
+    left: 35.5% !important;
     transform: translate(-50%,-50%);
     transform: rotate(45deg);
 }
 
 
-#testi-part .te{
 
-    margin-left: 35px !important;
-}
 
 
 #testi-part .line-two{
