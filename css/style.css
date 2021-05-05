@@ -54,9 +54,10 @@ h1,h2,h3,h4,h5,h6,p{
     font-size: 14px;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
-    width: 580px;
-    margin-left: 488px;
+    width: 500px !important;
+    margin-left: 500px !important;
     margin-bottom: 50px;
+    
 
 }
 
